@@ -1,1 +1,1 @@
-alert("welkom op mijn pagina");
+console.log("welkom op mijn pagina, geen popups please");
